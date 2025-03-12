@@ -73,6 +73,7 @@
                   "text-align": "left",
                   "fontStyle": "normal",
                   "padding": "0 16px",
+                  "marginBottom": "30px",
                   "maxWidth": "75%"
                 }
               },
@@ -82,7 +83,7 @@
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "14px",
+                  "fontSize": "16px",
                   "fontWeight": "normal",
                   "color": "#000000",
                   "text-align": "left",
@@ -186,7 +187,7 @@
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "14px",
+                  "fontSize": "16px",
                   "fontWeight": "normal",
                   "color": "#000000",
                   "text-align": "left",
@@ -222,7 +223,7 @@
                 "element": "h2",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "20px",
+                  "fontSize": "24px",
                   "fontWeight": "bold",
                   "textTransform": "uppercase",
                   "color": "#0a4b70",
@@ -307,7 +308,7 @@
               },
               {
                 "name": "columnOneText",
-                "value": "<div><p style=\"margin-bottom:0;min-height:100px;\">Zapewnia do 100 godzin<sup>1</sup> nawilżenia <br>i wspomaga odbudowę bariery <br>ochronnej skóry.</p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Jak używać?</h6><p>Nanieś produkt na oczyszczoną skórę<br> twarzy za pomocą dłoni lub wacika.</p></div>",
+                "value": "<div><p style=\"margin-bottom:0;min-height:100px;\">Zapewnia do 100 godzin<sup style=\"font-size:13px\">1</sup> nawilżenia <br>i wspomaga odbudowę bariery <br>ochronnej skóry.</p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Jak używać?</h6><p>Nanieś produkt na oczyszczoną skórę<br> twarzy za pomocą dłoni lub wacika.</p></div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "13px",
@@ -336,7 +337,7 @@
               },
               {
                 "name": "columnTwoText",
-                "value": "<div><p style=\"margin-bottom:0;min-height:100px;\">Serum stworzone dla skóry wrażliwej, aby intensywnie nawilżyć do<br>24 godzin<sup>2</sup>, ujędrnić<sup>3</sup> i wzmocnić barierę ochronną skóry<sup>2</sup>.</p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Jak używać?</h6><p>Nałóż 1 pełną pipetę na oczyszczoną <br>skórę twarzy i okolic oczu.</p></div>",
+                "value": "<div><p style=\"margin-bottom:0;min-height:100px;\">Serum stworzone dla skóry wrażliwej, aby intensywnie nawilżyć do<br>24 godzin<sup style=\"font-size:13px\">2</sup>, ujędrnić<sup style=\"font-size:13px\">3</sup> i wzmocnić barierę ochronną skóry<sup style=\"font-size:13px\">2</sup>.</p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Jak używać?</h6><p>Nałóż 1 pełną pipetę na oczyszczoną <br>skórę twarzy i okolic oczu.</p></div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "13px",
@@ -365,7 +366,7 @@
               },
               {
                 "name": "columnThreeText",
-                "value": "<div><p style=\"margin-bottom:0;min-height:100px;\">Nawilża do 48 godzin i regeneruje <br>barierę ochronną skóry<sup>4</sup>. Widocznie <br>redukuje powierzchniowe <br>zaczerwienienia<sup>5</sup>.</p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Jak używać?</h6><p>Stosuj rano aby nawilżyć skórę,<br> oraz wieczorem, aby ją odżywić <br>i zregenerować.</p></div>",
+                "value": "<div><p style=\"margin-bottom:0;min-height:100px;\">Nawilża do 48 godzin i regeneruje <br>barierę ochronną skóry<sup style=\"font-size:13px\">4</sup>. Widocznie <br>redukuje powierzchniowe <br>zaczerwienienia<sup style=\"font-size:13px\">5</sup>.</p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Jak używać?</h6><p>Stosuj rano aby nawilżyć skórę,<br> oraz wieczorem, aby ją odżywić <br>i zregenerować.</p></div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "13px",
@@ -394,7 +395,7 @@
               },
               {
                 "name": "columnFourText",
-                "value": "<div><p style=\"margin-bottom:0;min-height:100px;\">Chroni skórę przed promieniowaniem <br>UVB, UVA i długim UVA zapewniając <br>24-godzinne nawilżenie<sup>6</sup>. Nie<br> pozostawia białych śladów, nie klei się,<br> nie jest tłusty.</p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Jak używać?</h6><p>Stosuj rano jako krem nawilżający lub <br>po pielęgnacji, przed makijażem.</p></div>",
+                "value": "<div><p style=\"margin-bottom:0;min-height:100px;\">Chroni skórę przed promieniowaniem <br>UVB, UVA i długim UVA zapewniając <br>24-godzinne nawilżenie<sup style=\"font-size:13px\">6</sup>. Nie<br> pozostawia białych śladów, nie klei się,<br> nie jest tłusty.</p><br><h6 style=\"margin-top: 0;margin-bottom:0;font-size:0.9rem;font-weight:bold;text-align:center;color:#404040\">Jak używać?</h6><p>Stosuj rano jako krem nawilżający lub <br>po pielęgnacji, przed makijażem.</p></div>",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "13px",
@@ -428,7 +429,7 @@
                 "element": "h2",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "20px",
+                  "fontSize": "24px",
                   "fontWeight": "bold",
                   "textTransform": "uppercase",
                   "color": "#000",
@@ -437,7 +438,7 @@
               },
               {
                 "name": "columnOneText",
-                "value": "<div style=\"text-align: center\"><p style=\"font-size:13px;margin-bottom: 3px\"><sup>1</sup> Test aparaturowy, 28 badanych.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup>2</sup> Testy instrumentalne, 24 osoby.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup>3</sup> Badanie kliniczne, 40 osób.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup>4</sup> Test aparaturowy, 24 kobiety.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup>5</sup> Badania konsumenckie, 4 tygodnie, 30 kobiet.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup>6</sup> Test aparaturowy, 24 osoby.</p></div>",
+                "value": "<div style=\"text-align: center\"><p style=\"font-size:13px;margin-bottom: 3px\"><sup style=\"font-size:13px\">1</sup> Test aparaturowy, 28 badanych.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup style=\"font-size:13px\">2</sup> Testy instrumentalne, 24 osoby.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup style=\"font-size:13px\">3</sup> Badanie kliniczne, 40 osób.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup style=\"font-size:13px\">4</sup> Test aparaturowy, 24 kobiety.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup style=\"font-size:13px\">5</sup> Badania konsumenckie, 4 tygodnie, 30 kobiet.</p><p style=\"font-size:13px;margin-bottom: 3px\"><sup style=\"font-size:13px\">6</sup> Test aparaturowy, 24 osoby.</p></div>",
                 "element": "DangerHtml",
                 "properties": {}
               }
