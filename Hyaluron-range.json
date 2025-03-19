@@ -18,7 +18,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./KV-mobile.jpg",
+                "value": "KV-mobile.jpg",
                 "element": "img",
                 "alt": "Hyaluron Range",
                 "properties": []
@@ -40,7 +40,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./KV.jpg",
+                "value": "KV.jpg",
                 "element": "img",
                 "alt": "Hyaluron Range",
                 "properties": []
@@ -93,7 +93,7 @@
               },
               {
                 "name": "asset",
-                "value": "./MOD-02.jpg",
+                "value": "MOD-02.jpg",
                 "element": "img",
                 "alt": "Efekty",
                 "properties": []
@@ -145,7 +145,7 @@
               },
               {
                 "name": "asset",
-                "value": "./MOD-03.jpg",
+                "value": "MOD-03.jpg",
                 "element": "img",
                 "alt": "Kwas hialuronowy",
                 "properties": []
@@ -197,7 +197,7 @@
               },
               {
                 "name": "asset",
-                "value": "./MOD-04.jpg",
+                "value": "MOD-04.jpg",
                 "element": "img",
                 "alt": "Podkład Super Stay Lumi Matte",
                 "properties": []
@@ -250,7 +250,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-05.jpg",
+                "value": "MOD-05.jpg",
                 "element": "img",
                 "alt": "Gama Hyaluron",
                 "properties": []
@@ -272,7 +272,7 @@
             "data": [
               {
                 "name": "asset",
-                "value": "./MOD-05-mobile.jpg",
+                "value": "MOD-05-mobile.jpg",
                 "element": "img",
                 "alt": "Gama Hyaluron",
                 "properties": []
@@ -317,7 +317,7 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "./MOD-06-A.jpg",
+                "value": "MOD-06-A.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -346,7 +346,7 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "./MOD-06-B.jpg",
+                "value": "MOD-06-B.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -375,7 +375,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "./MOD-06-C.jpg",
+                "value": "MOD-06-C.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
@@ -404,7 +404,7 @@
               },
               {
                 "name": "columnFourAsset",
-                "value": "./MOD-06-D.jpg",
+                "value": "MOD-06-D.jpg",
                 "element": "img",
                 "alt": "",
                 "properties": {}
